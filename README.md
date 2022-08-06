@@ -2,7 +2,7 @@
 
 Programming has been my career since 2008. However, I've been programming since about 1995 when I discovered the `QBASIC` command in the DOS 5 manual. I quickly went to my school's library and discovered some outdated books on programming and robotics. I also found a book on building and programming robots at a local electronic parts store. Then I found a quarterly magazine on web development. I also found out I could write apps in Basic in MS Office. I also got books on C++ and video game programming. Then I eventually branched out into learning Java, C#, PHP, JavaScript, Ruby, Scala, and whatever else was out there. I figured that learning everything about the different styles of programming and history of programming languages couldn't hurt.
 
-Currently, I've been working on the [REA Playspace](https://github.com/lightningrodlabs/rea-playspace) with @lightningrodlabs. It's part time, so I still have some time to spare for other paying projects. If you need something built and can fund building it, don't be afraid to reach out to me and ask how I could help you make something a reality.
+Currently, I've been working on the [REA Playspace](https://github.com/lightningrodlabs/rea-playspace) with [Lightningrod Labs](https://lightningrodlabs.org/). It's part time, so I still have some time to spare for other paying projects. If you need something built and can fund building it, don't be afraid to reach out to me and ask how I could help you make something a reality.
 
 <!--
 **adaburrows/adaburrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
