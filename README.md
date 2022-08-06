@@ -1,4 +1,4 @@
-### Hi there! Welcome to my little corner of Github.
+### Hi there!  Welcome to my little corner of GitHub.
 
 Programming has been my career since 2008. However, I've been programming since about 1995 when I discovered the `QBASIC` command in the DOS 5 manual. I quickly went to my school's library and discovered some outdated books on programming and robotics. I also found a book on building and programming robots at a local electronic parts store. Then I found a quarterly magazine on web development. I also found out I could write apps in Basic in MS Office. I also got books on C++ and video game programming. Then I eventually branched out into learning Java, C#, PHP, JavaScript, Ruby, Scala, and whatever else was out there. I figured that learning everything about the different styles of programming and history of programming languages couldn't hurt.
 
